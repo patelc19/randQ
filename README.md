@@ -1,4 +1,4 @@
-# Random Question & Name Selector
+# Cold-call seclector version 1
 
 Randomly draws a name and a question, so the chosen person answers
 it in class.
